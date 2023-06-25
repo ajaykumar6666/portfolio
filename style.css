@@ -369,6 +369,11 @@ article .icon {
   width: 90%;
   height: 90%;
 }
+.certification-img {
+  border-radius: 2rem;
+  width: 30%;
+  height: 30%;
+}
 
 .project-title {
   margin: 1rem;
